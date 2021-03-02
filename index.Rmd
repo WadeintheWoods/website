@@ -3,13 +3,17 @@ title: "Website"
 output: html_document
 ---
 
-###Welcome to my website! 
-##Let's talk about invasive species and conservation! 
+### Welcome to my website! 
+## Let's talk about invasive species and conservation! 
 
 Here, I hope to build out the following pages:
 
-*Who I am and what I study
-*Water Chestnut project page
-*Managment Attitudes Page
-*Biological Control Page
+* Who I am and what I study
+* Water Chestnut project page
+* Managment Attitudes Page
+* Biological Control Page
+
+![](Photos/A.beck.in.Trapa.jpg)
+![](Photos/GB.on.Trapa.jpg)
+![](Photos/GN.laying.eggs.jpg)
 
