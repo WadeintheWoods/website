@@ -1,8 +1,8 @@
 ---
-title: "About"
-author: "Wade"
-date: "3/1/2021"
+title: "About Me"
 output: html_document
 ---
 
-Wade Simmons is a PhD student in the Department of Natural Resources and the Environment at Cornell University. Wade studies invasives species, and his research is focused on the biological control of water chestnut.
+Wade Simmons is a PhD student in Department of Natural Resources and the Environment at Cornell University. Wade is motivated by conservation, and focuses his research on invasives species issues. His graduate research us on the biological control of water chestnut, a floating aquatic plant that is problematic in eastern North America. He currently maintains the colony of Galerucella birmanica, a leaf-feeding beetle that specializes on water chestnut, and conducts research on the life history and food choices of the species. 
+
+Wade is also interested in the societal views of invasive species management, and is involved in reserach projects measuring human attitudes and perceptions of management. 
