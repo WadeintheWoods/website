@@ -1,0 +1,22 @@
+---
+title: "CV"
+output: html_document
+---
+
+## Education
+* **M.S. from Cornell University 2020**  
+    **Thesis:** Host-specificity testing of *Galerucella birmanca*, a potential biological control insect for water chestnut, *Trapa natans*  
+        Oxygen and nitrogen dynamics in freshwaters invaded by water chestnut, *Trapa natans*
+        
+* **B.S Cornell University 2012**  
+  **Major:** Science of Natural Resources and the Environment  
+  **Major:** International Agriculture and Rural Development  
+  ***Distinction in Research***
+
+
+## Publications
+
+## Grant and Awards
+
+## Invited Talks
+
