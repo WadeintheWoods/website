@@ -1,6 +1,6 @@
 name: "our-website"
 navbar:
-  title: "Wade's World on a Website"
+  title: "Wade's World"
   left:
     - text: "Home"
       href: index.html
