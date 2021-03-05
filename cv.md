@@ -1,0 +1,87 @@
+CV
+================
+
+## Education
+
+  - **M.S. Cornell University 2020**  
+    **Thesis:** Impacts of the non-native aquatic plant water chestnut,
+    *Trapa natans* on inland freshwater nitrogen and oxygen dynamics,
+    and host-specificity testing of the biological control insect,
+    *Galerucella birmanica*
+
+  - **B.S Cornell University 2012**  
+    **Major:** Science of Natural and Environmental Systems **Major:**
+    International Agriculture and Rural Development  
+    ***Distinction in Research***
+
+## Publications
+
+  - **Simmons, W.**, Davalos, A., Blossey, B., 2015. Forest successional
+    history and earthworm legacy affect earthworm survival and
+    performance. Pedobiologia (Jena). 58, 153–164.
+
+  - Blossey, B., Dávalos, A., **Simmons, W.**, Ding, J., 2018. A
+    proposal to use plant demographic data to assess potential weed
+    biological control agents impacts on non-target plant populations.
+    BioControl 63, 461–473. <https://doi.org/10.1007/s10526-018-9886-4>
+
+### In Preparation
+
+  - **Simmons W**, Blossey B. Host plant phylogeny does not explain host
+    choice and feeding preferences of *Galerucella birmanica*, a
+    promising biological control herbivore of *Trapa natans* (Revising
+    completed thesis chapter; plan to submit in April 2021 to
+    *BioControl*)
+
+  - **Simmons W**, Walter TW, Blossey B. Effects of Water Chestnut,
+    *Trapa natans*, on oxygen and nitrogen dynamics in freshwater
+    habitats. (Revising completed thesis chapter; plan to submit April
+    2021)
+
+  - Lee K, Endriss SB, **Simmons W**, Blossey B. Insect herbivory has
+    cascading effects across multiple trophic levels (revising completed
+    honors thesis; plan to submit April 2021).
+
+  - Endriss SB, **Simmons W**, Brown-Lima C, Blossey B. A call for
+    increased accountability in invasive species management (plan to
+    submit to *Biological Invasions* in April 2021)
+
+  - **Simmons W**, Hare D, Davalos A, Blossey B. Public perceptions of
+    invasive species management: a vignette approach for exploring
+    attitudes. In Prep.
+
+## Selected Presentations
+
+  - Making sense of social conflict over invasive species management.
+    Feb 21, 2021. Invited Presentation, New York Partnership for
+    Invasive Species Management (PRISM) Monthly call (online webinar).
+
+  - Making sense of social conflict over invasive species management.
+    2020 North American Invasive Species Management Association Annual
+    Conference. 10/7/2020 (Online Conference).
+
+  - **Simmons W**, Blossey B. Davalos A. Growing or Shrinking? Measuring
+    the Responses of Populations to Management. Special Session: New
+    Frameworks for Assessing Invasive Species Management. September 30 -
+    October 3, 2019: North American Invasive Species Management
+    Association (Saratoga Springs, NY)
+
+  - **Simmons W**, Blossey B, Haefliger P, Casagrande R, Tewksbury L. Of
+    Beetles and Moths: Water Chestnut and Phragmites biocontrol.
+    September 30 - October 3, 2019: North American Invasive Species
+    Management Association (Saratoga Springs, NY)
+
+## Professional Development
+
+### Membership
+
+  - Member: North American Invasive Species Management Association
+      - Member: Biological Control of Weeds Subcommittee  
+  - Member: International Organization for Biological Control
+      - Member: Nearactic Regional Section
+
+### 
+
+  - Dept. of Natural Resources Graduate Student Association
+      - **President**: 2017-2018  
+      - **Vice-President**: 2016-2017
