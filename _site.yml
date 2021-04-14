@@ -8,5 +8,7 @@ navbar:
       href: about.html
     - text: "CV"
       href: cv.html
+    - text: "Biological Control"
+      href: biocontrol.html
       
 output_dir: "."
